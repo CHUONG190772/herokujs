@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CHUONG190772/herokujs/issues"
   },
-  "homepage": "https://github.com/CHUONG190772/herokujs#readme"
+  "homepage": "https://github.com/CHUONG190772/herokujs#readme",
+  "engines": {
+    "node": "16.x"
+  }
 }
